@@ -23,4 +23,5 @@ public static void printStars(int n)
              
             //  inner loop to handle number of columns 
             //  values changing acc. to outer loop 
+            //use for loop
             for(j=0; j<=i; j++)
